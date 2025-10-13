@@ -1,5 +1,8 @@
 # Hospital Patient Flow Analytics
 
+This project analyzes hospital patient admissions and flow data to identify bottlenecks, reduce wait times, and monitor demographic trends using Databricks notebooks and Medallion architecture (Bronze → Silver → Gold).
+The simulated dataset mimics real-world hospital data pipelines with realistic data quality challenges.
+
 ## Business Objectives
 
 - Monitoring patient admissions to minimize waiting times.
